@@ -7,7 +7,6 @@ const PupilsAddPage = () => {
             <h1>Add Pupils</h1>
             <PupilsAddClient />
             <FilterOptions />
-            <Button />
         </div>
     );
 };
