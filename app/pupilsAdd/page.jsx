@@ -1,6 +1,6 @@
 import PupilsAddClient from "../../components/Pupils";
 import FilterOptions from "../../components/FilterOption"
-import Button from "../../components/Button"
+
 const PupilsAddPage = () => {
     return (
         <div>
